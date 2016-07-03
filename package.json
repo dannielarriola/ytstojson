@@ -1,0 +1,25 @@
+{
+  "name": "ytstojson",
+  "version": "1.0.0",
+  "description": "Crea un archivo json con datos de todas las peliculas de yts.ag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/dannielarriola/ytstojson.js.git"
+  },
+  "keywords": [
+    "movies",
+    "yts",
+    "hd",
+    "torrent"
+  ],
+  "author": "Dannielarriola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/dannielarriola/ytstojson.js/issues"
+  },
+  "homepage": "https://gitlab.com/dannielarriola/ytstojson.js#README"
+}
