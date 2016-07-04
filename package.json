@@ -1,7 +1,7 @@
 {
   "name": "ytstojson",
   "version": "1.0.0",
-  "description": "Crea un archivo json con datos de todas las peliculas de yts.ag",
+  "description": "CLI: Crea un archivo json con datos de todas las peliculas de yts.ag",
   "preferGlobal": true,
   "bin": {
     "ytstojson": "index.js"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/dannielarriola/ytstojson.js.git"
+    "url": "git+https://github.com/dannielarriola/ytstojson.git"
   },
   "keywords": [
     "movies",
@@ -22,9 +22,9 @@
   "author": "Dannielarriola",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/dannielarriola/ytstojson.js/issues"
+    "url": "https://github.com/dannielarriola/ytstojson/issues"
   },
-  "homepage": "https://gitlab.com/dannielarriola/ytstojson.js#README",
+  "homepage": "https://github.com/dannielarriola/ytstojson#README",
   "dependencies": {
     "unirest": "^0.5.0"
   }
