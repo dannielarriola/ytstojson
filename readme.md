@@ -1,6 +1,6 @@
 Yts to json
 ===========
 
-NPM CLI: Crea un archivo json con datos de todas las peliculas de yts.ag
+NPM CLI: Create json file with data movies from yts.ag
 
-[Paquete en NPM ](https://www.npmjs.com/package/ytstojson)
+[NPM Package](https://www.npmjs.com/package/ytstojson)

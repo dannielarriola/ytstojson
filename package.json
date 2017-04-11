@@ -1,6 +1,6 @@
 {
   "name": "ytstojson",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "CLI: Crea un archivo json con datos de todas las peliculas de yts.ag",
   "preferGlobal": true,
   "bin": {
