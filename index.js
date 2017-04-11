@@ -12,8 +12,8 @@ var arg = process.argv[2];
 if(arg == "--help"){
     console.log('Usage: ytstojson [pages]');
     console.log('Example:');
-    console.log('ytstojson 3    return 3 pages');
-    console.log('ytstojson      return all pages');
+    console.log('ytstojson 3    retun 3 pages');
+    console.log('ytstojson      retun all pages');
 }
 else if (parseInt(arg) > 0) {
     createJson(1, arg);
