@@ -7,7 +7,7 @@ var fs = require('fs');
 
 var movies = {};
 var limit = 50;
-var endpoint = 'https://yts.ag/api/v2/list_movies.json';
+var endpoint = 'https://yts.am/api/v2/list_movies.json';
 var arg = process.argv[2];
 if(arg == "--help"){
     console.log('Usage: ytstojson [pages]');
